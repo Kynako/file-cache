@@ -13,7 +13,6 @@ class FileCache {
     this.default = {
       on: 'icloud',
       root: 'documents',
-      debugMode: false
       ...options
     };
   };
