@@ -1,5 +1,5 @@
 /*
- * file-cache.js v1.0.0
+ * file-cache.js v1.0.1
  * author: Kynako
  *   github: https://github.com/Kynako
  * repo: https://github.com/Kynako/file-cache
